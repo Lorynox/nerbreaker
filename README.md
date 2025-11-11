@@ -29,3 +29,5 @@ A játék végén írd be a két nagy párt nevét (kormánypárt / ellenzék), 
 
 ## Projektoldal és frissítések
 [https://github.com/Lorynox/nerbreaker](https://github.com/Lorynox/nerbreaker)
+
+**Kulcsszavak:** Nerbreaker · téglatörő · politikai szatíra · NER · Hungary · FIDESZ · TISZA párt · választás2026
